@@ -1,0 +1,2 @@
+# Panorama
+ Simple panorama
